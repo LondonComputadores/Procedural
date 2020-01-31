@@ -1,0 +1,8 @@
+Pycharm Files
+.idea
+.classpath
+.project
+.settings/
+bin/
+*.sqlite3
+
